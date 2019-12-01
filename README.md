@@ -11,7 +11,7 @@
 
 # 加入项目的讨论组
 
-[![Join the chat at https://gitter.im/kaiyuanshe/wechat-robot](https://badges.gitter.im/kaiyuanshe/wechat-robot.svg)](https://gitter.im/kaiyuanshe/wechat-robot?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/kaiyuanshe/wechat-robot](https://badges.gitter.im/kaiyuanshe/wechat-robot.svg)](https://gitter.im/kaiyuanshe/wechat-robot?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Greenkeeper badge](https://badges.greenkeeper.io/kaiyuanshe/wechat-robot.svg)](https://greenkeeper.io/)
 
 # 欢迎加这个机器人为好友
 
